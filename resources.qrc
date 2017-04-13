@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/plugins/sitnThemes" >
+        <file>icon.png</file>
+        <file>themes/cadastre.png</file>
+        <file>themes/agriculture.png</file>
+        <file>themes/altimetrie.png</file>
+        <file>themes/amenagement.png</file>
+        <file>themes/run.png</file>
+        <file>themes/ortho.png</file>
+        <file>themes/foret.png</file>
+        <file>themes/environnement.png</file>
+        <file>themes/cadsout.png</file>
+    </qresource>
+</RCC>
