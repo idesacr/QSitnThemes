@@ -1,14 +1,49 @@
 <RCC>
     <qresource prefix="/plugins/sitnThemes" >
         <file>icon.png</file>
-        <file>themes/cadastre.png</file>
         <file>themes/agriculture.png</file>
         <file>themes/altimetrie.png</file>
         <file>themes/amenagement.png</file>
+        <file>themes/cadastre.png</file>
+        <file>themes/cadastre_bruit_routier.png</file>
+        <file>themes/cadsout.png</file>
+        <file>themes/chasse.png</file>
+        <file>themes/controle.png</file>
+        <file>themes/dangers.png</file>
+        <file>themes/defense_incendie.png</file>
+        <file>themes/eaux.png</file>
+        <file>themes/ecoreseaux.png</file>
+        <file>themes/edition.png</file>
+        <file>themes/energie.png</file>
+        <file>themes/enseignement.png</file>
+        <file>themes/environnement.png</file>
+        <file>themes/evenement.png</file>
+        <file>themes/fete_vendanges.png</file>
+        <file>themes/geologie.png</file>
+        <file>themes/historique.png</file>
+        <file>themes/main.png</file>
+        <file>themes/meteo.png</file>
+        <file>themes/mobilite.png</file>
+        <file>themes/neophytes.png</file>
+        <file>themes/orcan.png</file>
+        <file>themes/osm.png</file>
+        <file>themes/patrimoine_immobilier.png</file>
+        <file>themes/planville.png</file>
+        <file>themes/police.png</file>
+        <file>themes/promotioneco.png</file>
+        <file>themes/routes.png</file>
         <file>themes/run.png</file>
+        <file>themes/sante.png</file>
+        <file>themes/sitespollues.png</file>
+        <file>themes/sport.png</file>
+        <file>themes/sscm.png</file>
+        <file>themes/theme_air.png</file>
+        <file>themes/topographie.png</file>
+        <file>themes/trafic.png</file>
+        <file>themes/transn.png</file>
+        <file>themes/viticulture.png</file>
         <file>themes/ortho.png</file>
         <file>themes/foret.png</file>
         <file>themes/environnement.png</file>
-        <file>themes/cadsout.png</file>
     </qresource>
 </RCC>

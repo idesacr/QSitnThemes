@@ -25,8 +25,8 @@ except AttributeError:
 class Ui_sitnThemesDockWidgetBase(object):
     def setupUi(self, sitnThemesDockWidgetBase):
         sitnThemesDockWidgetBase.setObjectName(_fromUtf8("sitnThemesDockWidgetBase"))
-        sitnThemesDockWidgetBase.resize(150, 485)
-        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Maximum)
+        sitnThemesDockWidgetBase.resize(123, 484)
+        sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Minimum)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(sitnThemesDockWidgetBase.sizePolicy().hasHeightForWidth())
